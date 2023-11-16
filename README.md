@@ -1,4 +1,7 @@
-#blog do curso python jango docker
+# Desenvolvimento python jango docker
 
 
-este é o blog criado no curso do luiz otavio miranda
+este é o blog criado no
+curso de python avançado do 
+luiz otavio miranda
+
